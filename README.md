@@ -13,7 +13,7 @@
 ### Screen shot:
 * Login:
 
-* ![Login]( https://github.com/manhhung-fpt/Restaurant-Management_PRN-Project_SE1504_Group4/blob/main/images/Untitled.png)
+![Login]( https://github.com/manhhung-fpt/Restaurant-Management_PRN-Project_SE1504_Group4/blob/main/images/Untitled.png)
 
 * Check price and checkout the bill:
 
