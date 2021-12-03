@@ -23,7 +23,7 @@
 
 ![Admin]( https://github.com/manhhung-fpt/Restaurant-Management_PRN-Project_SE1504_Group4/blob/main/images/Untitled3.png)
 
-*Screen Management:
+* Screen Management:
 
 ![Management]( https://github.com/manhhung-fpt/Restaurant-Management_PRN-Project_SE1504_Group4/blob/main/images/Untitled4.png)
 
