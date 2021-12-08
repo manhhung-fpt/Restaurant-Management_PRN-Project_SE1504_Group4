@@ -11,6 +11,7 @@
 * Admin: They work with issues in the restaurant such as paying the table bill, tracking and managing sales, inventory, and restaurant staff.
 
 ### Screen shot:
+
 * Login:
 
 ![Login]( https://github.com/manhhung-fpt/Restaurant-Management_PRN-Project_SE1504_Group4/blob/main/images/Untitled.png)
